@@ -1,0 +1,19 @@
+# ─────────────────────────────────────────────────────────────────
+# requirements.txt
+# Python >= 3.10
+# ─────────────────────────────────────────────────────────────────
+ 
+# Dades i càlcul
+numpy>=1.24
+pandas>=2.0
+openpyxl>=3.1          # lectura de .xlsx (JARTESTS)
+ 
+# Machine Learning
+scikit-learn>=1.4
+ 
+# Visualització
+matplotlib>=3.8
+ 
+# (Opcional) millora de rendiment en models d'arbres
+# xgboost>=2.0
+# lightgbm>=4.0
